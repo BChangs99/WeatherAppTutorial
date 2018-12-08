@@ -1,0 +1,29 @@
+td, th {
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg {
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div {
+    height: 200px;
+    width: 250px;
+}
+
+html, body {
+    height: 100%;
+    background-color: black;
+}
+
+tr:hover {
+    background-color: rgb(247, 0, 255);
+}
+.weather-bar:hover {
+    background-color: rgb(26, 26, 235);
+}

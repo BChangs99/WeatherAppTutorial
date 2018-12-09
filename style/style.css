@@ -18,12 +18,4 @@ td:first-of-type, td:first-of-type > div {
 
 html, body {
     height: 100%;
-    background-color: black;
-}
-
-tr:hover {
-    background-color: rgb(247, 0, 255);
-}
-.weather-bar:hover {
-    background-color: rgb(26, 26, 235);
 }
